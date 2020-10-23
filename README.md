@@ -1,1 +1,43 @@
 # MakerKits
+
+## Coral Dev Board Mini  
+https://coral.ai/products/dev-board-mini/#description
+USD 99 (NTD 2,870)
+Coral Dev Board Mini is a single-board computer that provides fast machine learning (ML) inferencing in a small form factor. It's primarily designed as an evaluation device for the Accelerator Module (a surface-mounted module that provides the Edge TPU)
+
+## Kneron KL-520 USB AI Dongle
+https://www.ruten.com.tw/item/show?22036276707372
+NTD 1,800
+
+## 勘智K210 - 嘉楠科技
+https://canaan-creative.com/product/kendryteai
+
+## Maixduino AI開發板 k210 RISC-V AI+lOT ESP32 套件
+https://www.playrobot.com/ai-artificial-intelligence/2637-maixduino-ai-k210-risc-v-ailot-esp32-.html
+NTD 1,000
+Maixduino 開發板使用AI模組+ESP32模組+底板方式設計，整合Type-C介面和USB-UART電路，用戶可以直接通過USB Type-C線連接電腦進行開發，配置200W像素攝影鏡頭、LCD、Mic、PA、TF卡等介面並把捕分IO引出，方便用戶擴展。此外，整合ESP32模組支援WiFi和藍芽無線連接，可輕鬆進行無線傳輸
+
+## MicroPython
+https://micropython.org/
+MicroPython is a lean and efficient implementation of the Python 3 programming language
+
+## MaixPy
+https://maixpy.sipeed.com/en/
+MaixPy ported Micropython to K210 (a 64-bit dual-core RISC-V CPU with hardware FPU、FFT、sha256 and convolution accelerator)
+
+## TUL PYNQ-Z2 FPGA開發板
+https://www.pcstore.com.tw/store1495528887/M40967219.htm
+NTD 3,720
+憾訊科技與FPGA晶片龍頭XILINX合作推出TUL PYNQ-Z2開發板，支援PYTHON開發環境，多樣性I/O支援，入門學習FPGA的使用與開發的好夥伴
+
+## PYNQ-Z2 (依元素科技)
+https://mp.weixin.qq.com/s/-cfC3HGwfxfWAdSliJcIFA
+RMB 799 (NTD 3,355)
+
+
+
+
+
+
+
+
