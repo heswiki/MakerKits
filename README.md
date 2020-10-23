@@ -1,11 +1,9 @@
 # MakerKits
 
 ---
-## Jetson Nano 2GB
-https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/
+## Jetson Nano 2GB [[link]](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/)
 
-### NVIDIA® Jetson Nano™ 開發套件 Developer Kit B01
-https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-b01/
+### NVIDIA® Jetson Nano™ 開發套件 Developer Kit B01 [[link]](https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-b01)
 
 NTD 3,300
 
@@ -13,8 +11,7 @@ NTD 3,300
 https://jkjung-avt.github.io/yolov4/
 
 ---
-## Coral Dev Board Mini  
-https://coral.ai/products/dev-board-mini/#description
+## Coral Dev Board Mini [[]](https://coral.ai/products/dev-board-mini/#description
 
 USD 99 (NTD 2,870)
 
