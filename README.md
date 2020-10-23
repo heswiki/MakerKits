@@ -4,7 +4,7 @@
 ---
 ## Linkit 7697
 ### [Linkit 7697 物聯網裝置開發板 聯發科 物聯網 開發板 IOT 板載 WiFi 藍牙](https://www.taiwansensor.com.tw/product/linkit-7697-%E7%89%A9%E8%81%AF%E7%B6%B2%E8%A3%9D%E7%BD%AE%E9%96%8B%E7%99%BC%E6%9D%BF/?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTp9htmdFi5T2RnKJq2_iVq_s_PISC7LjNGBQd1WdejbiYwsIH7LDhRoC1IkQAvD_BwE)
-NTD 425 
+NTD 425 (USD 15)
 
 ### [CMSIS-NN](https://developer.arm.com/solutions/machine-learning-on-arm/developer-material/how-to-guides/image-recognition-on-arm-cortex-m-with-cmsis-nn/next-steps)
 CMSIS-NN is optimized for Convolutional Neural Networks (CNNs) and makes use of SIMD instructions. SIMD is only available in Arm Cortex-M4, Cortex-M7, Cortex-M33 and Cortex-M35P processors.
