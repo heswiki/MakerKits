@@ -25,6 +25,7 @@ https://www.mediatek.com/products/homeNetworking/mt8167s
 ---
 ## Kneron KL-520 USB AI Dongle
 https://www.ruten.com.tw/item/show?22036276707372
+
 NTD 1,800
 
 ### KNEO: edge AI platform, AI app store for devs and consumers
@@ -36,8 +37,10 @@ https://canaan-creative.com/product/kendryteai
 
 ### Maixduino AI開發板 k210 RISC-V AI+lOT ESP32 套件
 https://www.playrobot.com/ai-artificial-intelligence/2637-maixduino-ai-k210-risc-v-ailot-esp32-.html
+
 NTD 1,000
 Maixduino 開發板使用AI模組+ESP32模組+底板方式設計，整合Type-C介面和USB-UART電路，用戶可以直接通過USB Type-C線連接電腦進行開發，配置200W像素攝影鏡頭 整合ESP32模組支援WiFi和藍芽無線連接 
+
 ### MicroPython
 https://micropython.org/
 
@@ -60,11 +63,13 @@ PYNQ supports Zynq based boards (Zynq, Zynq Ultrascale+, Zynq RFSoC), and Xilinx
 
 ### TUL PYNQ-Z2 FPGA開發板
 https://www.pcstore.com.tw/store1495528887/M40967219.htm
+
 NTD 3,720
 憾訊科技與FPGA晶片龍頭XILINX合作推出TUL PYNQ-Z2開發板，支援PYTHON開發環境，多樣性I/O支援，入門學習FPGA的使用與開發的好夥伴
 
 ### PYNQ-Z2 (依元素科技)
 https://mp.weixin.qq.com/s/-cfC3HGwfxfWAdSliJcIFA
+
 RMB 799 (NTD 3,355)
 
 
