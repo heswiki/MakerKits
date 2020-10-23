@@ -1,7 +1,7 @@
 # MakerKits
 
 ---
-## Jetson Nano 2GB 開發者套件
+## Jetson Nano 2GB
 https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/
 
 ### NVIDIA® Jetson Nano™ 開發套件 Developer Kit B01
@@ -17,6 +17,7 @@ https://jkjung-avt.github.io/yolov4/
 https://coral.ai/products/dev-board-mini/#description
 
 USD 99 (NTD 2,870)
+
 Coral Dev Board Mini is a single-board computer that provides fast machine learning (ML) inferencing in a small form factor. It's primarily designed as an evaluation device for the Accelerator Module (a surface-mounted module that provides the Edge TPU)
 
 ### MT8167S - MediaTek
@@ -39,6 +40,7 @@ https://canaan-creative.com/product/kendryteai
 https://www.playrobot.com/ai-artificial-intelligence/2637-maixduino-ai-k210-risc-v-ailot-esp32-.html
 
 NTD 1,000
+
 Maixduino 開發板使用AI模組+ESP32模組+底板方式設計，整合Type-C介面和USB-UART電路, 配置200W像素攝影鏡頭 整合ESP32模組支援WiFi和藍芽無線連接 
 
 ### MicroPython
@@ -48,6 +50,7 @@ MicroPython is a lean and efficient implementation of the Python 3 programming l
 
 ### MaixPy
 https://maixpy.sipeed.com/en/
+
 MaixPy ported Micropython to K210 (a 64-bit dual-core RISC-V CPU with hardware FPU、FFT、sha256 and convolution accelerator)
 
 ---
@@ -61,10 +64,10 @@ http://www.pynq.io/board.html
 
 PYNQ supports Zynq based boards (Zynq, Zynq Ultrascale+, Zynq RFSoC), and Xilinx Alveo accelerator boards and AWS-F1 instances
 
-### TUL PYNQ-Z2 FPGA開發板
-https://www.pcstore.com.tw/store1495528887/M40967219.htm
+### TUL PYNQ-Z2 FPGA開發板 [[link]] (https://www.pcstore.com.tw/store1495528887/M40967219.htm)
 
 NTD 3,720
+
 憾訊科技與FPGA晶片龍頭XILINX合作推出TUL PYNQ-Z2開發板，支援PYTHON開發環境，多樣性I/O支援，入門學習FPGA的使用與開發的好夥伴
 
 ### PYNQ-Z2 (依元素科技)
