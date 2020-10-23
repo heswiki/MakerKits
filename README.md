@@ -50,10 +50,11 @@ MaixPy ported Micropython to K210 (a 64-bit dual-core RISC-V CPU with hardware F
 
 ---
 ## [Kneron KL-520 USB AI Dongle](https://www.ruten.com.tw/item/show?22036276707372)
-
 NTD 1,800 (USD 65)
+Kneron KL520 NPU, Cortex-M3, LPDDR2
 
 ### [KNEO: edge AI platform, AI app store for devs and consumers](http://www.kneron.com/technology/KNEO/)
+KNEO is a private mesh intelligence network made up of Kneron powered devices that will personalize mobile AI for everyone
 
 ---
 ## [Jetson Nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/)
