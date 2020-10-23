@@ -27,9 +27,35 @@ USD 35, Your tiny, dual-display, desktop computer
 ### [VIA VAB-950 SBC VIA VAB-950 SBC Features MediaTek i500 SoC for AIoT Applications](https://www.cnx-software.com/2020/10/15/via-vab-950-sbc-features-mediatek-i500-soc-for-aiot-applications/)
 VIA VAB-950 single board computer equipped with MediaTek i500 AIoT octa-core processor, up to 4GB LPDDR4, 16GB flash storage, HDMI, dual Fast Ethernet, dual-band 802.11ac Wi-Fi, Bluetooth 5.0, and support for 4G LTE cellular connectivity.
 
+---
+## [勘智K210 - 嘉楠科技](https://canaan-creative.com/product/kendryteai)
+
+### [Maixduino AI開發板 k210 RISC-V AI+lOT ESP32 套件](https://www.playrobot.com/ai-artificial-intelligence/2637-maixduino-ai-k210-risc-v-ailot-esp32-.html)
+
+RMB 239 (NTD 1,000)
+
+Maixduino 開發板使用AI模組+ESP32模組+底板方式設計，整合Type-C介面和USB-UART電路, 配置200W像素攝影鏡頭 整合ESP32模組支援WiFi和藍芽無線連接 
+
+### [MicroPython](https://micropython.org/)
+
+MicroPython is a lean and efficient implementation of the Python 3 programming language
+
+### [MaixPy](https://maixpy.sipeed.com/en/)
+
+MaixPy ported Micropython to K210 (a 64-bit dual-core RISC-V CPU with hardware FPU、FFT、sha256 and convolution accelerator)
+
+---
+## [Kneron KL-520 USB AI Dongle](https://www.ruten.com.tw/item/show?22036276707372)
+
+NTD 1,800 (USD 65)
+
+### [KNEO: edge AI platform, AI app store for devs and consumers](http://www.kneron.com/technology/KNEO/)
 
 ---
 ## [Jetson Nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/)
+
+### NVIDIA Jetson NANO套件 | 二代升级版本支持2个CSI相机 | 苏州吉浦迅 (https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-19907321733.8.7f6c75d3MQzrsr&id=589645527076)
+RMB 700 (NTD 2,940)
 
 ### [NVIDIA® Jetson Nano™ 開發套件 Developer Kit B01](https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-b01)
 
@@ -49,30 +75,6 @@ Coral Dev Board Mini is a single-board computer that provides fast machine learn
 
 ### [MT8167S - MediaTek](https://www.mediatek.com/products/homeNetworking/mt8167s)
 Incorporates a power efficient Quad-core Arm® Cortex®-A35 processor operating at 1.3 GHz and powerful Imagination Technologies PowerVRTM GE8300 Series GPU.  
-
----
-## [Kneron KL-520 USB AI Dongle](https://www.ruten.com.tw/item/show?22036276707372)
-
-NTD 1,800
-
-### [KNEO: edge AI platform, AI app store for devs and consumers](http://www.kneron.com/technology/KNEO/)
-
----
-## [勘智K210 - 嘉楠科技](https://canaan-creative.com/product/kendryteai)
-
-### [Maixduino AI開發板 k210 RISC-V AI+lOT ESP32 套件](https://www.playrobot.com/ai-artificial-intelligence/2637-maixduino-ai-k210-risc-v-ailot-esp32-.html)
-
-NTD 1,000
-
-Maixduino 開發板使用AI模組+ESP32模組+底板方式設計，整合Type-C介面和USB-UART電路, 配置200W像素攝影鏡頭 整合ESP32模組支援WiFi和藍芽無線連接 
-
-### [MicroPython](https://micropython.org/)
-
-MicroPython is a lean and efficient implementation of the Python 3 programming language
-
-### [MaixPy](https://maixpy.sipeed.com/en/)
-
-MaixPy ported Micropython to K210 (a 64-bit dual-core RISC-V CPU with hardware FPU、FFT、sha256 and convolution accelerator)
 
 ---
 ## [PYNQ ™-Z2](http://www.e-elements.com/tw/product/show/id/133.shtml)
