@@ -8,7 +8,7 @@ NTD 425 (USD 15)
 
 LinkIt 7697 HDK 是一塊針對物聯網應用的開發板。它基於 MT7697 系統單晶片，具有含浮點運算的 ARM Cortex-M4 微控制器，並整合了 802.11b/g/n Wi-Fi 無線網路與 Bluetooth 4.2 低功耗藍牙
 
-### [應用於教育之模組機器人教具LinkIt 7697](https://www.techbang.com/posts/55074-2017-communication-competition-mediatek-networking-development-competition-finals-team-30-the-works-were-presented-at-the-november-24-awards-ceremony#s18)
+### [LinkIt 7697應用於教育之模組機器人教具](https://www.techbang.com/posts/55074-2017-communication-competition-mediatek-networking-development-competition-finals-team-30-the-works-were-presented-at-the-november-24-awards-ceremony#s18)
 從技術架構來看，主機方塊裡面有LinkIt 7697作為整個架構的頭腦，負責處理與執行使用者的指令，並與其他功能方塊（超音波方塊、感光方塊、關節方塊、馬達驅動方塊）溝通、下達指令。操作模式包括單機模式、手機遙控模式，也能以Scratch堆疊指令方塊，藉以學習程式邏輯。除了可應用在學生的程式與科技教育，對於未受過程式教育的使用者，也能透過此積木快速組合出一些生活上的應用，自己打造簡易版的居家機器人。
 
 ### [CMSIS-NN](https://developer.arm.com/solutions/machine-learning-on-arm/developer-material/how-to-guides/image-recognition-on-arm-cortex-m-with-cmsis-nn/next-steps)
