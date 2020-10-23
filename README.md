@@ -6,8 +6,11 @@
 ### [NVIDIA® Jetson Nano™ 開發套件 Developer Kit B01](https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-b01)
 
 NTD 3,300
+尺寸僅 70 x 45 mm 的 Jetson Nano 模組是全球最小的 Jetson 裝置。這種可量產的模組系統 (SOM) 能有效將人工智慧部署至各個產業的終端裝置，包括智慧城市和機器人
 
 ### [YOLOv4 on Jetson Nano](https://jkjung-avt.github.io/yolov4/)
+
+I’ve written about YOLOv2 and YOLOv3 before. Both of those articles were pretty popular when they were first posted. So I figured it has become somewhat of a tradition. It’s time for me to write about YOLOv4
 
 ---
 ## [Coral Dev Board Mini](https://coral.ai/products/dev-board-mini/#description)
@@ -65,7 +68,7 @@ RMB 799 (NTD 3,355)
 ---
 ## Ultra96
 
-### [Ultra96-V2 Development Board] (http://www.zedboard.org/product/ultra96-v2-development-board)
+### [Ultra96-V2 Development Board](http://www.zedboard.org/product/ultra96-v2-development-board)
 The Ultra96-V2 updates and refreshes the Ultra96 product that was released in 2018. Like Ultra96, the Ultra96-V2 is an Arm-based, Xilinx Zynq UltraScale+ ™ MPSoC development board based on the Linaro 96Boards Consumer Edition (CE) specification. 
 
 ### [Avnet Ultra96-V2](https://www.xilinx.com/products/boards-and-kits/1-vad4rl.html)
