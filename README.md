@@ -6,6 +6,7 @@ https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/ed
 
 ### Ruten (含稅價)2020新版 NVIDIA® Jetson Nano™ 開發套件 Developer Kit B01
 https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-b01/
+
 NTD 3,300
 
 ### YOLOv4 on Jetson Nano
@@ -14,6 +15,7 @@ https://jkjung-avt.github.io/yolov4/
 ---
 ## Coral Dev Board Mini  
 https://coral.ai/products/dev-board-mini/#description
+
 USD 99 (NTD 2,870)
 Coral Dev Board Mini is a single-board computer that provides fast machine learning (ML) inferencing in a small form factor. It's primarily designed as an evaluation device for the Accelerator Module (a surface-mounted module that provides the Edge TPU)
 
@@ -38,6 +40,7 @@ NTD 1,000
 Maixduino 開發板使用AI模組+ESP32模組+底板方式設計，整合Type-C介面和USB-UART電路，用戶可以直接通過USB Type-C線連接電腦進行開發，配置200W像素攝影鏡頭 整合ESP32模組支援WiFi和藍芽無線連接 
 ### MicroPython
 https://micropython.org/
+
 MicroPython is a lean and efficient implementation of the Python 3 programming language
 
 ### MaixPy
@@ -47,10 +50,12 @@ MaixPy ported Micropython to K210 (a 64-bit dual-core RISC-V CPU with hardware F
 ---
 ## PYNQ ™-Z2
 http://www.e-elements.com/tw/product/show/id/133.shtml
+
 PYNQ ™-Z2 board, based on Xilinx Zynq SoC, is designed for the Xilinx University Program to support PYNQ (Python Productivity for Zynq) framework
 
 ### Python productivity for Zynq
 http://www.pynq.io/board.html
+
 PYNQ supports Zynq based boards (Zynq, Zynq Ultrascale+, Zynq RFSoC), and Xilinx Alveo accelerator boards and AWS-F1 instances
 
 ### TUL PYNQ-Z2 FPGA開發板
