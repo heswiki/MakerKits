@@ -91,6 +91,7 @@ NTD 3,720
 RMB 799 (NTD 3,355)
 
 ### [Robot Car Development Platform for PYNQ](https://github.com/john-junhong/PYNQ_Car)
+A self-driving robot car development kit for PYNQ-Z2. This repo contains all the development source including the overlay design and all the embedded projects.
 
 ---
 ## Ultra96
