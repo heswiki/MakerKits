@@ -12,6 +12,9 @@ CMSIS-NN is optimized for Convolutional Neural Networks (CNNs) and makes use of 
 ---
 ## Raspberry Pi
 
+### [Raspberry Pi 4 Model B – Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
+USD 35, Your tiny, dual-display, desktop computer
+
 ### [Raspberry Pi CM4 & CM4Lite](https://www.raspberrypi.org/blog/raspberry-pi-compute-module-4/)
 
 ### [Raspberry Pi CM4 and CM4Lite Modules Launched for $25 and Up](https://www.cnx-software.com/2020/10/19/raspberry-pi-cm4-cm4lite-modules/)
