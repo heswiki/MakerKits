@@ -14,10 +14,12 @@ CMSIS-NN is optimized for Convolutional Neural Networks (CNNs) and makes use of 
 ## Raspberry Pi
 
 ### [Raspberry Pi 4 Model B – Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
-USD 35, Your tiny, dual-display, desktop computer
+USD 35
+Your tiny, dual-display, desktop computer
 
 ### [Raspberry Pi CM4 & CM4Lite](https://www.raspberrypi.org/blog/raspberry-pi-compute-module-4/)
 USD 25
+
 Built on the same 64-bit quad-core BCM2711 application processor as Raspberry Pi 4
 * 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU
 * 1GB, 2GB, 4GB or 8GB LPDDR4-3200 SDRAM
@@ -51,6 +53,7 @@ MaixPy ported Micropython to K210 (a 64-bit dual-core RISC-V CPU with hardware F
 ---
 ## [Kneron KL-520 USB AI Dongle](https://www.ruten.com.tw/item/show?22036276707372)
 NTD 1,800 (USD 65)
+
 Kneron KL520 NPU, Cortex-M3, LPDDR2
 
 ### [KNEO: edge AI platform, AI app store for devs and consumers](http://www.kneron.com/technology/KNEO/)
@@ -60,12 +63,13 @@ KNEO is a private mesh intelligence network made up of Kneron powered devices th
 ## [Jetson Nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/)
 
 ### [NVIDIA Jetson NANO套件](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-19907321733.8.7f6c75d3MQzrsr&id=589645527076)
-RMB 700 (NTD 2,940)
+RMB 700 (NTD 2,940 | USD 99)
+
 NVIDIA Jetson NANO套件 | 二代升级版本支持2个CSI相机 | 苏州吉浦迅 
 
 ### [NVIDIA® Jetson Nano™ 開發套件 Developer Kit B01](https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-b01)
-
 NTD 3,300
+
 尺寸僅 70 x 45 mm 的 Jetson Nano 模組是全球最小的 Jetson 裝置。這種可量產的模組系統 (SOM) 能有效將人工智慧部署至各個產業的終端裝置，包括智慧城市和機器人
 
 ### [YOLOv4 on Jetson Nano](https://jkjung-avt.github.io/yolov4/)
@@ -112,6 +116,7 @@ The Ultra96-V2 updates and refreshes the Ultra96 product that was released in 20
 
 ### [Avnet Ultra96-V2](https://www.xilinx.com/products/boards-and-kits/1-vad4rl.html)
 USD 249 (NTD 6,972)
+
 The Ultra96-V2 updates and refreshes the Ultra96 product that was released in 2018. Like Ultra96, the Ultra96-V2 is an Arm-based, Xilinx Zynq UltraScale+™ MPSoC development board based on the Linaro 96Boards Consumer Edition (CE) specification\
 
 ### [Ultra96 開發紀錄: 硬體認識| coldnew's blog](https://coldnew.github.io/f4865ec/)
