@@ -18,7 +18,7 @@ USD 35, Your tiny, dual-display, desktop computer
 ### [Raspberry Pi CM4 & CM4Lite](https://www.raspberrypi.org/blog/raspberry-pi-compute-module-4/)
 
 ### [Raspberry Pi CM4 and CM4Lite Modules](https://www.cnx-software.com/2020/10/19/raspberry-pi-cm4-cm4lite-modules/)
-Launched for $25 and Up
+USD 25
  
 ### [CutiePi 樹莓派平板電腦](https://makerpro.cc/2020/01/cutiepi-tablet/)
 
