@@ -17,22 +17,24 @@ USD 35, Your tiny, dual-display, desktop computer
 
 ### [Raspberry Pi CM4 & CM4Lite](https://www.raspberrypi.org/blog/raspberry-pi-compute-module-4/)
 
-### [Raspberry Pi CM4 and CM4Lite Modules Launched for $25 and Up](https://www.cnx-software.com/2020/10/19/raspberry-pi-cm4-cm4lite-modules/)
-
+### [Raspberry Pi CM4 and CM4Lite Modules](https://www.cnx-software.com/2020/10/19/raspberry-pi-cm4-cm4lite-modules/)
+Launched for $25 and Up
+ 
 ### [CutiePi 樹莓派平板電腦](https://makerpro.cc/2020/01/cutiepi-tablet/)
 
 ---
 ## MediaTek i300/i500/i700
 
-### [VIA VAB-950 SBC VIA VAB-950 SBC Features MediaTek i500 SoC for AIoT Applications](https://www.cnx-software.com/2020/10/15/via-vab-950-sbc-features-mediatek-i500-soc-for-aiot-applications/)
+### [VIA VAB-950 SBC VIA VAB-950 SBC](https://www.cnx-software.com/2020/10/15/via-vab-950-sbc-features-mediatek-i500-soc-for-aiot-applications/)
+Features MediaTek i500 SoC for AIoT Applications
 VIA VAB-950 single board computer equipped with MediaTek i500 AIoT octa-core processor, up to 4GB LPDDR4, 16GB flash storage, HDMI, dual Fast Ethernet, dual-band 802.11ac Wi-Fi, Bluetooth 5.0, and support for 4G LTE cellular connectivity.
-
+ 
 ---
 ## [勘智K210 - 嘉楠科技](https://canaan-creative.com/product/kendryteai)
 
 ### [Maixduino AI開發板 k210 RISC-V AI+lOT ESP32 套件](https://www.playrobot.com/ai-artificial-intelligence/2637-maixduino-ai-k210-risc-v-ailot-esp32-.html)
 
-RMB 239 (NTD 1,000)
+RMB 239 (NTD 1,000 | USD 35)
 
 Maixduino 開發板使用AI模組+ESP32模組+底板方式設計，整合Type-C介面和USB-UART電路, 配置200W像素攝影鏡頭 整合ESP32模組支援WiFi和藍芽無線連接 
 
@@ -54,8 +56,9 @@ NTD 1,800 (USD 65)
 ---
 ## [Jetson Nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/)
 
-### NVIDIA Jetson NANO套件 | 二代升级版本支持2个CSI相机 | 苏州吉浦迅 (https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-19907321733.8.7f6c75d3MQzrsr&id=589645527076)
+### [NVIDIA Jetson NANO套件](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-19907321733.8.7f6c75d3MQzrsr&id=589645527076)
 RMB 700 (NTD 2,940)
+NVIDIA Jetson NANO套件 | 二代升级版本支持2个CSI相机 | 苏州吉浦迅 
 
 ### [NVIDIA® Jetson Nano™ 開發套件 Developer Kit B01](https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-b01)
 
