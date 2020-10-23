@@ -57,7 +57,7 @@ NTD 3,720
 
 憾訊科技與FPGA晶片龍頭XILINX合作推出TUL PYNQ-Z2開發板，支援PYTHON開發環境，多樣性I/O支援，入門學習FPGA的使用與開發的好夥伴
 
-### [[PYNQ-Z2 (依元素科技)]](https://mp.weixin.qq.com/s/-cfC3HGwfxfWAdSliJcIFA)
+### [[依元素科技 PYNQ-Z2]](https://mp.weixin.qq.com/s/-cfC3HGwfxfWAdSliJcIFA)
 
 RMB 799 (NTD 3,355)
 
