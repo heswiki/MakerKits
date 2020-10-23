@@ -50,6 +50,13 @@ RMB 999 (USD 149 | NTD 4,200)
 Firefly-RK3399 六核64位高性能开源平台 
 作为Firefly新一代的顶级开源平台，Firefly-RK3399采用了六核64位“服务器级”处理器Rockchip RK3399，拥有2GB/4GB DDR3和16G/32GB eMMC, 并新增DP 1.2、PCIe 2.1 M.2、Type-C、USB3.0 HOST等高性能数据传输和显示接口
 
+### RK3399Pro AI 開發板(https://www.ruten.com.tw/item/show?22034159521756)
+NTD 9,450 (USD 350) \
+* Dual Cortex-A72 + Quad Cortex-A53 
+* 3TOPS NPU 8/16bit 可以使用TensorFlow / Caffe
+* Mali-T860MP4 GPU
+* PCIe 2.1, USB-C
+
 ---
 ## [勘智K210 - 嘉楠科技](https://canaan-creative.com/product/kendryteai)
 
