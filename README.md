@@ -4,7 +4,7 @@
 ## Jetson Nano 2GB 開發者套件
 https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/
 
-### Ruten (含稅價)2020新版 NVIDIA® Jetson Nano™ 開發套件 Developer Kit B01
+### NVIDIA® Jetson Nano™ 開發套件 Developer Kit B01
 https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-b01/
 
 NTD 3,300
@@ -39,7 +39,7 @@ https://canaan-creative.com/product/kendryteai
 https://www.playrobot.com/ai-artificial-intelligence/2637-maixduino-ai-k210-risc-v-ailot-esp32-.html
 
 NTD 1,000
-Maixduino 開發板使用AI模組+ESP32模組+底板方式設計，整合Type-C介面和USB-UART電路，用戶可以直接通過USB Type-C線連接電腦進行開發，配置200W像素攝影鏡頭 整合ESP32模組支援WiFi和藍芽無線連接 
+Maixduino 開發板使用AI模組+ESP32模組+底板方式設計，整合Type-C介面和USB-UART電路, 配置200W像素攝影鏡頭 整合ESP32模組支援WiFi和藍芽無線連接 
 
 ### MicroPython
 https://micropython.org/
