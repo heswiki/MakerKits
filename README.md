@@ -1,7 +1,32 @@
 # MakerKits
 
+
 ---
-## [Jetson Nano 2GB](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/)
+## Linkit 7697
+### [Linkit 7697 物聯網裝置開發板 聯發科 物聯網 開發板 IOT 板載 WiFi 藍牙](https://www.taiwansensor.com.tw/product/linkit-7697-%E7%89%A9%E8%81%AF%E7%B6%B2%E8%A3%9D%E7%BD%AE%E9%96%8B%E7%99%BC%E6%9D%BF/?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTp9htmdFi5T2RnKJq2_iVq_s_PISC7LjNGBQd1WdejbiYwsIH7LDhRoC1IkQAvD_BwE)
+NTD 425 
+
+### [CMSIS-NN](https://developer.arm.com/solutions/machine-learning-on-arm/developer-material/how-to-guides/image-recognition-on-arm-cortex-m-with-cmsis-nn/next-steps)
+CMSIS-NN is optimized for Convolutional Neural Networks (CNNs) and makes use of SIMD instructions. SIMD is only available in Arm Cortex-M4, Cortex-M7, Cortex-M33 and Cortex-M35P processors.
+
+---
+## Raspberry Pi
+
+### [Raspberry Pi CM4 & CM4Lite](https://www.raspberrypi.org/blog/raspberry-pi-compute-module-4/)
+
+### [Raspberry Pi CM4 and CM4Lite Modules Launched for $25 and Up](https://www.cnx-software.com/2020/10/19/raspberry-pi-cm4-cm4lite-modules/)
+
+### [CutiePi 樹莓派平板電腦](https://makerpro.cc/2020/01/cutiepi-tablet/)
+
+---
+## MediaTek i300/i500/i700
+
+### [VIA VAB-950 SBC VIA VAB-950 SBC Features MediaTek i500 SoC for AIoT Applications\(https://www.cnx-software.com/2020/10/15/via-vab-950-sbc-features-mediatek-i500-soc-for-aiot-applications/)
+
+
+
+---
+## [Jetson Nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/)
 
 ### [NVIDIA® Jetson Nano™ 開發套件 Developer Kit B01](https://robotkingdom.com.tw/product/nvidia-jetson-nano-developer-kit-b01)
 
@@ -64,6 +89,8 @@ NTD 3,720
 ### [依元素科技 PYNQ-Z2](https://mp.weixin.qq.com/s/-cfC3HGwfxfWAdSliJcIFA)
 
 RMB 799 (NTD 3,355)
+
+### [Robot Car Development Platform for PYNQ](https://github.com/john-junhong/PYNQ_Car)
 
 ---
 ## Ultra96
