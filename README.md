@@ -30,6 +30,11 @@ Built on the same 64-bit quad-core BCM2711 application processor as Raspberry Pi
 * 1GB, 2GB, 4GB or 8GB LPDDR4-3200 SDRAM
  
 ### [CutiePi 樹莓派平板電腦](https://makerpro.cc/2020/01/cutiepi-tablet/)
+自行設計了一塊主板 CutiePi board，可搭配樹莓派 Compute Module 計算模組使用。「使用 Compute Module 能讓裝置更輕薄，並能探索與樹莓派開發板不同形式的硬體設計
+
+### [Raspberry Pi4 Model B 之 AI 模型效能測試](https://makerpro.cc/2019/08/test-of-raspberry-pi4-model-b/)
+新的 Raspberry Pi 4 帶來的性能提升，使其成為極具競爭力的機器學習 inference 平台。透過效能測試，RPi 4B 使用 AI2GO 平台的二元權重模型的 inference 時間足以跟 NVIDIA Jetson Nano 和 TensorRT 優化的 TensorFlow 模型相匹敵。而加了 USB 3.0 後，讓 Raspberry Pi 不僅是運算效能有競爭力，價格競爭力亦能與同類最佳的 Google Coral Dev Board 相匹敵。
+售價 35 美元的 Raspberry Pi 4 的 1GB 版本比 149 美元的 Coral Dev Board 便宜得多。結合 74.99 美元的 Coral USB AI 加速器與 Raspberry Pi 4 ，意味著您可以以 109.99 美元的價格超越之前的「同類最佳」主板。
 
 ---
 ## MediaTek i300/i500/i700
