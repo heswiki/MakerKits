@@ -62,8 +62,18 @@ NTD 3,720
 
 RMB 799 (NTD 3,355)
 
+---
+## Ultra96
 
+### [Ultra96-V2 Development Board] (http://www.zedboard.org/product/ultra96-v2-development-board)
+The Ultra96-V2 updates and refreshes the Ultra96 product that was released in 2018. Like Ultra96, the Ultra96-V2 is an Arm-based, Xilinx Zynq UltraScale+ ™ MPSoC development board based on the Linaro 96Boards Consumer Edition (CE) specification. 
 
+### [Avnet Ultra96-V2](https://www.xilinx.com/products/boards-and-kits/1-vad4rl.html)
+USD 249 (NTD 6,972)
+The Ultra96-V2 updates and refreshes the Ultra96 product that was released in 2018. Like Ultra96, the Ultra96-V2 is an Arm-based, Xilinx Zynq UltraScale+™ MPSoC development board based on the Linaro 96Boards Consumer Edition (CE) specification\
+
+### [Ultra96 開發紀錄: 硬體認識| coldnew's blog](https://coldnew.github.io/f4865ec/)
+Ultra96 開發紀錄: 開箱文 一文中筆者紀錄了如何購買 Ultra96 開發板，在這邊文章中我們則是來看看 Ultra96 rev1 的版本，到底有哪些硬體與週邊
 
 
 
