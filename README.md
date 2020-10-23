@@ -21,8 +21,8 @@ CMSIS-NN is optimized for Convolutional Neural Networks (CNNs) and makes use of 
 ---
 ## MediaTek i300/i500/i700
 
-### [VIA VAB-950 SBC VIA VAB-950 SBC Features MediaTek i500 SoC for AIoT Applications\(https://www.cnx-software.com/2020/10/15/via-vab-950-sbc-features-mediatek-i500-soc-for-aiot-applications/)
-
+### [VIA VAB-950 SBC VIA VAB-950 SBC Features MediaTek i500 SoC for AIoT Applications](https://www.cnx-software.com/2020/10/15/via-vab-950-sbc-features-mediatek-i500-soc-for-aiot-applications/)
+VIA VAB-950 single board computer equipped with MediaTek i500 AIoT octa-core processor, up to 4GB LPDDR4, 16GB flash storage, HDMI, dual Fast Ethernet, dual-band 802.11ac Wi-Fi, Bluetooth 5.0, and support for 4G LTE cellular connectivity.
 
 
 ---
