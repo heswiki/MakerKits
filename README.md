@@ -48,17 +48,17 @@ MaixPy ported Micropython to K210 (a 64-bit dual-core RISC-V CPU with hardware F
 
 PYNQ ™-Z2 board, based on Xilinx Zynq SoC, is designed for the Xilinx University Program to support PYNQ (Python Productivity for Zynq) framework
 
-### [[Python productivity for Zynq]](http://www.pynq.io/board.html)
+### [Python productivity for Zynq](http://www.pynq.io/board.html)
 
 PYNQ supports Zynq based boards (Zynq, Zynq Ultrascale+, Zynq RFSoC), and Xilinx Alveo accelerator boards and AWS-F1 instances
 
-### [[TUL PYNQ-Z2 FPGA開發板]](https://www.pcstore.com.tw/store1495528887/M40967219.htm)
+### [TUL PYNQ-Z2 FPGA開發板](https://www.pcstore.com.tw/store1495528887/M40967219.htm)
 
 NTD 3,720
 
 憾訊科技與FPGA晶片龍頭XILINX合作推出TUL PYNQ-Z2開發板，支援PYTHON開發環境，多樣性I/O支援，入門學習FPGA的使用與開發的好夥伴
 
-### [[依元素科技 PYNQ-Z2]](https://mp.weixin.qq.com/s/-cfC3HGwfxfWAdSliJcIFA)
+### [依元素科技 PYNQ-Z2](https://mp.weixin.qq.com/s/-cfC3HGwfxfWAdSliJcIFA)
 
 RMB 799 (NTD 3,355)
 
