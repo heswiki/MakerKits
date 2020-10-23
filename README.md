@@ -17,9 +17,10 @@ CMSIS-NN is optimized for Convolutional Neural Networks (CNNs) and makes use of 
 USD 35, Your tiny, dual-display, desktop computer
 
 ### [Raspberry Pi CM4 & CM4Lite](https://www.raspberrypi.org/blog/raspberry-pi-compute-module-4/)
-
-### [Raspberry Pi CM4 and CM4Lite Modules](https://www.cnx-software.com/2020/10/19/raspberry-pi-cm4-cm4lite-modules/)
 USD 25
+Built on the same 64-bit quad-core BCM2711 application processor as Raspberry Pi 4
+* 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU
+* 1GB, 2GB, 4GB or 8GB LPDDR4-3200 SDRAM
  
 ### [CutiePi 樹莓派平板電腦](https://makerpro.cc/2020/01/cutiepi-tablet/)
 
