@@ -64,7 +64,7 @@ http://www.pynq.io/board.html
 
 PYNQ supports Zynq based boards (Zynq, Zynq Ultrascale+, Zynq RFSoC), and Xilinx Alveo accelerator boards and AWS-F1 instances
 
-### TUL PYNQ-Z2 FPGA開發板 [[link]] (https://www.pcstore.com.tw/store1495528887/M40967219.htm)
+### TUL PYNQ-Z2 FPGA開發板 [[link]](https://www.pcstore.com.tw/store1495528887/M40967219.htm)
 
 NTD 3,720
 
