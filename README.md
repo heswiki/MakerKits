@@ -29,8 +29,7 @@ Built on the same 64-bit quad-core BCM2711 application processor as Raspberry Pi
 * 1.5GHz quad-core 64-bit ARM Cortex-A72 CPU
 * 1GB, 2GB, 4GB or 8GB LPDDR4-3200 SDRAM
  
-### [Raspberry Pi Car](https://www.amazon.com/Raspberry-Pi-Car/s?k=Raspberry+Pi+Car)
-[SunFounder Raspberry Pi Car Robot Kit](https://www.amazon.com/dp/B087QKRX5J?pd_rd_i=B087QKRX5J&pd_rd_w=R2DZC&pf_rd_p=2e62cf0a-1323-46ac-bbb9-19dc851997c6&pd_rd_wg=hsMmR&pf_rd_r=C8KGVETAAG4NHQR7JX7C&pd_rd_r=a394202f-504e-4925-8fd7-0a6f78e1353b)
+### [SunFounder Raspberry Pi Car Robot Kit](https://www.amazon.com/dp/B087QKRX5J?pd_rd_i=B087QKRX5J&pd_rd_w=R2DZC&pf_rd_p=2e62cf0a-1323-46ac-bbb9-19dc851997c6&pd_rd_wg=hsMmR&pf_rd_r=C8KGVETAAG4NHQR7JX7C&pd_rd_r=a394202f-504e-4925-8fd7-0a6f78e1353b)
 SunFounder Raspberry Pi Car Robot Kit, 4WD HAT Module, Ultrasonic Sensor, Velocity Measurement Module etc. Electronic DIY Robot Kit for Teens and Adults, Raspberry Pi/TF Card/Battery not Included
 
 ### [CutiePi 樹莓派平板電腦](https://makerpro.cc/2020/01/cutiepi-tablet/)
