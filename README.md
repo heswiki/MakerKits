@@ -40,6 +40,37 @@ SunFounder Raspberry Pi Car Robot Kit, 4WD HAT Module, Ultrasonic Sensor, Veloci
 售價 35 美元的 Raspberry Pi 4 的 1GB 版本比 149 美元的 Coral Dev Board 便宜得多。結合 74.99 美元的 Coral USB AI 加速器與 Raspberry Pi 4 ，意味著您可以以 109.99 美元的價格超越之前的「同類最佳」主板。
 
 ---
+# Google Coral
+https://coral.ai/products/
+
+## Dev Board ($129)
+https://coral.ai/products/dev-board/
+NXP i.MX 8M SoC (quad Cortex-A53, Cortex-M4F)
+Google Edge TPU coprocessor: 4 TOPS (int8)
+
+---
+## Dev Board Mini ($99)
+https://coral.ai/products/dev-board-mini/
+MediaTek 8167s SoC (Quad-core Arm Cortex-A35)
+IMG PowerVR GE8300 (integrated in SoC)
+Google Edge TPU coprocessor: 4 TOPS (int8)
+2 GB LPDDR3
+
+## USB Accelerator ($59)
+https://coral.ai/products/accelerator/
+Google Edge TPU coprocessor: 4 TOPS (int8)
+USB 3.0 Type-C
+
+### (德源科技) 含稅現貨 Google Coral USB Accelerator Edge ($3,300)
+https://www.ruten.com.tw/item/show?21406243814601
+
+### Teahable Sorter
+https://coral.ai/projects/teachable-sorter/#project-intro
+
+### 超級比一比：Google Coral Edge TPU v.s. NVIDIA Jetson
+https://blog.cavedu.com/2019/05/16/comparison-googlecoral-nvidiajetson-nano/
+
+---
 ## MediaTek i300/i500/i700
 
 ### [VIA VAB-950 SBC VIA VAB-950 SBC](https://www.cnx-software.com/2020/10/15/via-vab-950-sbc-features-mediatek-i500-soc-for-aiot-applications/)
