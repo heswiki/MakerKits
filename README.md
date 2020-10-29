@@ -2,7 +2,7 @@
 
 
 ---
-## Linkit 7697
+# Linkit 7697
 ### [Linkit 7697 物聯網裝置開發板 聯發科 物聯網 開發板 IOT 板載 WiFi 藍牙](https://www.taiwansensor.com.tw/product/linkit-7697-%E7%89%A9%E8%81%AF%E7%B6%B2%E8%A3%9D%E7%BD%AE%E9%96%8B%E7%99%BC%E6%9D%BF/?gclid=CjwKCAjwlbr8BRA0EiwAnt4MTp9htmdFi5T2RnKJq2_iVq_s_PISC7LjNGBQd1WdejbiYwsIH7LDhRoC1IkQAvD_BwE)
 NTD 425 (USD 15)
 
@@ -15,7 +15,7 @@ LinkIt 7697 HDK 是一塊針對物聯網應用的開發板。它基於 MT7697 �
 CMSIS-NN is optimized for Convolutional Neural Networks (CNNs) and makes use of SIMD instructions. SIMD is only available in Arm Cortex-M4, Cortex-M7, Cortex-M33 and Cortex-M35P processors.
 
 ---
-## Raspberry Pi
+# Raspberry Pi
 
 ### [Raspberry Pi 4 Model B – Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 USD 35
@@ -56,6 +56,10 @@ IMG PowerVR GE8300 (integrated in SoC)
 Google Edge TPU coprocessor: 4 TOPS (int8)
 2 GB LPDDR3
 
+### [MT8167S - MediaTek](https://www.mediatek.com/products/homeNetworking/mt8167s)
+Incorporates a power efficient Quad-core Arm® Cortex®-A35 processor operating at 1.3 GHz and powerful Imagination Technologies PowerVRTM GE8300 Series GPU.  
+
+---
 ## USB Accelerator ($59)
 https://coral.ai/products/accelerator/
 Google Edge TPU coprocessor: 4 TOPS (int8)
@@ -64,20 +68,21 @@ USB 3.0 Type-C
 ### (德源科技) 含稅現貨 Google Coral USB Accelerator Edge ($3,300)
 https://www.ruten.com.tw/item/show?21406243814601
 
-### Teahable Sorter
-https://coral.ai/projects/teachable-sorter/#project-intro
-
+---
 ### 超級比一比：Google Coral Edge TPU v.s. NVIDIA Jetson
 https://blog.cavedu.com/2019/05/16/comparison-googlecoral-nvidiajetson-nano/
 
+### Teahable Sorter
+https://coral.ai/projects/teachable-sorter/#project-intro
+
 ---
-## MediaTek i300/i500/i700
+# MediaTek i300/i500/i700
 
 ### [VIA VAB-950 SBC VIA VAB-950 SBC](https://www.cnx-software.com/2020/10/15/via-vab-950-sbc-features-mediatek-i500-soc-for-aiot-applications/)
 Features MediaTek i500 SoC for AIoT Applications
 VIA VAB-950 single board computer equipped with MediaTek i500 AIoT octa-core processor, up to 4GB LPDDR4, 16GB flash storage, HDMI, dual Fast Ethernet, dual-band 802.11ac Wi-Fi, Bluetooth 5.0, and support for 4G LTE cellular connectivity.
  
-## RK3399/RK3399Pro
+# RK3399/RK3399Pro
 ### [Firefly-RK3399 六核64位高性能开源平台](http://www.t-firefly.com/doc/product/index/id/3.html)
 RMB 999 (USD 149 | NTD 4,200)
 
@@ -92,7 +97,7 @@ NTD 9,450 (USD 350)
 * PCIe 2.1, USB-C
 
 ---
-## [勘智K210 - 嘉楠科技](https://canaan-creative.com/product/kendryteai)
+# [勘智K210 - 嘉楠科技](https://canaan-creative.com/product/kendryteai)
 
 ### [Maixduino AI開發板 k210 RISC-V AI+lOT ESP32 套件](https://www.playrobot.com/ai-artificial-intelligence/2637-maixduino-ai-k210-risc-v-ailot-esp32-.html)
 
@@ -109,7 +114,7 @@ MicroPython is a lean and efficient implementation of the Python 3 programming l
 MaixPy ported Micropython to K210 (a 64-bit dual-core RISC-V CPU with hardware FPU、FFT、sha256 and convolution accelerator)
 
 ---
-## [Kneron KL-520 USB AI Dongle](https://www.ruten.com.tw/item/show?22036276707372)
+# [Kneron KL-520 USB AI Dongle](https://www.ruten.com.tw/item/show?22036276707372)
 NTD 1,800 (USD 65) \
 Kneron KL520 NPU, Cortex-M3, LPDDR2
 
@@ -117,7 +122,7 @@ Kneron KL520 NPU, Cortex-M3, LPDDR2
 KNEO is a private mesh intelligence network made up of Kneron powered devices that will personalize mobile AI for everyone
 
 ---
-## [Jetson Nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/)
+# [Jetson Nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/education-projects/)
 
 ### [NVIDIA Jetson NANO套件](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-19907321733.8.7f6c75d3MQzrsr&id=589645527076)
 RMB 700 (NTD 2,940 | USD 99)
@@ -133,18 +138,9 @@ NTD 3,300
 
 I’ve written about YOLOv2 and YOLOv3 before. Both of those articles were pretty popular when they were first posted. So I figured it has become somewhat of a tradition. It’s time for me to write about YOLOv4
 
+ 
 ---
-## [Coral Dev Board Mini](https://coral.ai/products/dev-board-mini/#description)
-
-USD 99 (NTD 2,870)
-
-Coral Dev Board Mini is a single-board computer that provides fast machine learning (ML) inferencing in a small form factor. It's primarily designed as an evaluation device for the Accelerator Module (a surface-mounted module that provides the Edge TPU)
-
-### [MT8167S - MediaTek](https://www.mediatek.com/products/homeNetworking/mt8167s)
-Incorporates a power efficient Quad-core Arm® Cortex®-A35 processor operating at 1.3 GHz and powerful Imagination Technologies PowerVRTM GE8300 Series GPU.  
-
----
-## [PYNQ ™-Z2](http://www.e-elements.com/tw/product/show/id/133.shtml)
+# [PYNQ ™-Z2](http://www.e-elements.com/tw/product/show/id/133.shtml)
 
 PYNQ ™-Z2 board, based on Xilinx Zynq SoC, is designed for the Xilinx University Program to support PYNQ (Python Productivity for Zynq) framework
 
@@ -166,7 +162,7 @@ RMB 799 (NTD 3,355)
 A self-driving robot car development kit for PYNQ-Z2. This repo contains all the development source including the overlay design and all the embedded projects.
 
 ---
-## Ultra96
+# Ultra96
 
 ### [Ultra96-V2 Development Board](http://www.zedboard.org/product/ultra96-v2-development-board)
 The Ultra96-V2 updates and refreshes the Ultra96 product that was released in 2018. Like Ultra96, the Ultra96-V2 is an Arm-based, Xilinx Zynq UltraScale+ ™ MPSoC development board based on the Linaro 96Boards Consumer Edition (CE) specification. 
